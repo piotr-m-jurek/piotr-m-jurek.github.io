@@ -1,0 +1,44 @@
+h2 {
+  font-family: "Dosis" !important;
+  font-weight: 600 !important;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+body {
+  padding-top: 71px;
+  background-color: #2c3e50 !important;
+  color: #ecf0f1 !important;
+}
+
+section {
+  font-size: 18px;
+  font-family: "Catamaran", Sans-serif !important;
+  padding: 0px 10px 10px 10px;
+}
+
+.text-frame {
+  background-color: #7f8c8d;
+  box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.4);
+  padding: 15px 1px 15px 1px;
+}
+
+img {
+  width: 100%;
+}
+
+hr {
+  max-width: 80%;
+}
+
+header {
+  font-family: "Dosis";
+  font-weight: ;
+} 
+.no-bullet {
+  list-style-type: none;
+  display: inline-block;
+}
+.social-button {
+  color: none;
+}
